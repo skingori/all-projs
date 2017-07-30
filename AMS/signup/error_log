@@ -1,0 +1,1 @@
+[13-Jul-2016 13:13:59 UTC] PHP Fatal error:  Class 'PHPMailer' not found in /home/timayabi2020/public_html/AMS/signup/forgotPassword.php on line 23

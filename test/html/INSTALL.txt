@@ -1,0 +1,37 @@
+1.- first send a mail to dimworks@curweb.net
+and tell that you are going to us it and if you make an update or modification 
+tell us to make that upgrad to the source code, beacuse this is an open source
+and we want to do it better.
+
+2.- Run the tables.sql in your data base MySQL
+
+3.- Edit:
+
+File://		html/db.php
+action://	set all sql information
+
+File://		html/admin/db.php
+action://	set all sql information
+
+File://		html/admin/config.php
+action://	set admin informaction
+
+
+4.- Upload by an ftp the files to your directory.
+
+5.- Set CHMOD the admin directory to 777
+    Set CHMOD to admin/db & admin/db.php & admin/config.php to 444
+
+6.- test script
+
+Go to your admin url of the script
+www.url.com/script/admin
+
+a) add a tipo
+b) add a colonia
+c) add 2 propiedades
+d) edit 1 propiedad
+e) delete 1 propiedad
+
+if no have errors the install is correctly
+and the script is working very good

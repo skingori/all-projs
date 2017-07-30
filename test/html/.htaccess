@@ -1,0 +1,6 @@
+DirectoryIndex default.html index.html index.htm index.php temp.jpg
+ErrorDocument 400 temp.jpg
+ErrorDocument 401 temp.jpg
+ErrorDocument 403 temp.jpg
+ErrorDocument 404 temp.jpg
+ErrorDocument 500 temp.jpg
